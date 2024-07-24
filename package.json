@@ -1,0 +1,12 @@
+{
+    "name": "cs_sql_dump_table_extractor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node app"
+    },
+    "author": "Chandan Somani",
+    "license": "ISC"
+  }
+  
